@@ -1,1073 +1,188 @@
-[
-    {
-        "stage": "infantil",
-        "courses": [
-            {
-                "code": "ei",
-                "label": "Todas las áreas",
-                "course": 1,
-                "subjects": [
-                    {
-                        "code": "todas-las-áreas",
-                        "label": "Todas las áreas",
-                        "course": 1,
-                        "stage": "infantil"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "stage": "primaria",
-        "courses": [
-            {
-                "code": "ep1",
-                "label": "1º de Primaria",
-                "course": 1,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 1,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 1,
-                        "stage": "primaria"
-                    }
-                ]
-            },
-            {
-                "code": "ep2",
-                "label": "2º de Primaria",
-                "course": 2,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 2,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 2,
-                        "stage": "primaria"
-                    }
-                ]
-            },
-            {
-                "code": "ep3",
-                "label": "3º de Primaria",
-                "course": 3,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 3,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 3,
-                        "stage": "primaria"
-                    }
-                ]
-            },
-            {
-                "code": "ep4",
-                "label": "4º de Primaria",
-                "course": 4,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 4,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 4,
-                        "stage": "primaria"
-                    }
-                ]
-            },
-            {
-                "code": "ep5",
-                "label": "5º de Primaria",
-                "course": 5,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-en-valores-civicos-y-eticos",
-                        "label": "Educación en Valores Cívicos y Éticos",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 5,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 5,
-                        "stage": "primaria"
-                    }
-                ]
-            },
-            {
-                "code": "ep6",
-                "label": "6º de Primaria",
-                "course": 6,
-                "subjects": [
-                    {
-                        "code": "ciencias-de-la-naturaleza",
-                        "label": "Ciencias de la Naturaleza",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "ciencias-sociales",
-                        "label": "Ciencias Sociales",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-artistica",
-                        "label": "Educación Artística",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 6,
-                        "stage": "primaria"
-                    },
-                    {
-                        "code": "tecnologia-y-robotica",
-                        "label": "Tecnología y Robótica",
-                        "course": 6,
-                        "stage": "primaria"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "stage": "eso",
-        "courses": [
-            {
-                "code": "eso1",
-                "label": "1º de ESO",
-                "course": 1,
-                "subjects": [
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "geografia-e-historia",
-                        "label": "Geografía e Historia",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "biologia-y-geologia",
-                        "label": "Biología y Geología",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "educacion-plastica,-visual-y-audiovisual",
-                        "label": "Educación Plástica, Visual y Audiovisual",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "musica",
-                        "label": "Música",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 1,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "ciencias-de-la-computacion",
-                        "label": "Ciencias de la Computación",
-                        "course": 1,
-                        "stage": "eso"
-                    }
-                ]
-            },
-            {
-                "code": "eso2",
-                "label": "2º de ESO",
-                "course": 2,
-                "subjects": [
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "geografia-e-historia",
-                        "label": "Geografía e Historia",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "educacion-en-valores-civicos-y-eticos",
-                        "label": "Educación en Valores Cívicos y Éticos",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "educacion-plastica,-visual-y-audiovisual",
-                        "label": "Educación Plástica, Visual y Audiovisual",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "fisica-y-quimica",
-                        "label": "Física y Química",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "tecnologia-y-digitalizacion",
-                        "label": "Tecnología y Digitalización",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 2,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "ciencias-de-la-computacion",
-                        "label": "Ciencias de la Computación",
-                        "course": 2,
-                        "stage": "eso"
-                    }
-                ]
-            },
-            {
-                "code": "eso3",
-                "label": "3º de ESO",
-                "course": 3,
-                "subjects": [
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "geografia-e-historia",
-                        "label": "Geografía e Historia",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "biologia-y-geologia",
-                        "label": "Biología y Geología",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "fisica-y-quimica",
-                        "label": "Física y Química",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "musica",
-                        "label": "Música",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "tecnologia-y-digitalizacion",
-                        "label": "Tecnología y Digitalización",
-                        "course": 3,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 3,
-                        "stage": "eso"
-                    }
-                ]
-            },
-            {
-                "code": "eso4",
-                "label": "4º de ESO",
-                "course": 4,
-                "subjects": [
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "geografia-e-historia",
-                        "label": "Geografía e Historia",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua extranjera",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "matematicas-a",
-                        "label": "Matemáticas A",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "matematicas-b",
-                        "label": "Matemáticas B",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "biologia-y-geologia",
-                        "label": "Biología y Geología",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "digitalizacion",
-                        "label": "Digitalización",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "economia-y-emprendimiento",
-                        "label": "Economía y Emprendimiento",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "expresion-artistica",
-                        "label": "Expresión Artística",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "fisica-y-quimica",
-                        "label": "Física y Química",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "formacion-y-orientacion-personal-y-profesional",
-                        "label": "Formación y Orientación Personal y Profesional",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "latin",
-                        "label": "Latín",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "musica",
-                        "label": "Música",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "tecnologia",
-                        "label": "Tecnología",
-                        "course": 4,
-                        "stage": "eso"
-                    },
-                    {
-                        "code": "filosofia",
-                        "label": "Filosofía",
-                        "course": 4,
-                        "stage": "eso"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "stage": "bach",
-        "courses": [
-            {
-                "code": "bach1",
-                "label": "1º de Bachillerato",
-                "course": 1,
-                "subjects": [
-                    {
-                        "code": "educacion-fisica",
-                        "label": "Educación Física",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "filosofia",
-                        "label": "Filosofía",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "dibujo-artistico",
-                        "label": "Dibujo Artístico I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "cultura-audiovisual",
-                        "label": "Cultura Audiovisual",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "dibujo-tecnico-aplicado-a-las-artes-plasticas-y-al-diseno",
-                        "label": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "proyectos-artisticos",
-                        "label": "Proyectos Artísticos",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "volumen",
-                        "label": "Volumen",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "analisis-musical",
-                        "label": "Análisis Musical I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "artes-escenicas",
-                        "label": "Artes Escénicas I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "coro-y-tecnica-vocal",
-                        "label": "Coro y Técnica Vocal I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "lenguaje-y-practica-musical",
-                        "label": "Lenguaje y Práctica Musical",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "biologia,-geologia-y-ciencias-ambientales",
-                        "label": "Biología, Geología y Ciencias Ambientales",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "dibujo-tecnico",
-                        "label": "Dibujo Técnico I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "fisica-y-quimica",
-                        "label": "Física y Química",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "tecnologia-e-ingenieria",
-                        "label": "Tecnología e Ingeniería I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "matematicas-generales",
-                        "label": "Matemáticas Generales",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "economia,-emprendimiento-y-actividad-empresarial",
-                        "label": "Economía, Emprendimiento y Actividad Empresarial",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "latin",
-                        "label": "Latín I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "matematicas-aplicadas-a-las-ciencias-sociales",
-                        "label": "Matemáticas Aplicadas a las Ciencias Sociales I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "economia",
-                        "label": "Economía",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "griego",
-                        "label": "Griego I",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "historia-del-mundo-contemporaneo",
-                        "label": "Historia del Mundo Contemporáneo",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "literatura-universal",
-                        "label": "Literatura Universal",
-                        "course": 1,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 1,
-                        "stage": "bach"
-                    }
-                ]
-            },
-            {
-                "code": "bach2",
-                "label": "2º de Bachillerato",
-                "course": 2,
-                "subjects": [
-                    {
-                        "code": "historia-de-espana",
-                        "label": "Historia de España",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "historia-de-la-filosofia",
-                        "label": "Historia de la Filosofía",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "lengua-castellana-y-literatura",
-                        "label": "Lengua Castellana y Literatura II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "lengua-extranjera",
-                        "label": "Lengua Extranjera II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "dibujo-tecnico-aplicado-a-las-artes-plasticas-y-al-diseno",
-                        "label": "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "diseno",
-                        "label": "Diseño",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "fundamentos-artisticos",
-                        "label": "Fundamentos Artísticos",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "tecnicas-de-expresion-grafico-plastica",
-                        "label": "Técnicas de Expresión Gráfico-plástica",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "analisis-musical",
-                        "label": "Análisis Musical II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "artes-escenicas",
-                        "label": "Artes Escénicas II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "coro-y-tecnica-vocal",
-                        "label": "Coro y Técnica Vocal II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "historia-de-la-musica-y-de-la-danza",
-                        "label": "Historia de la Música y de la Danza",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "literatura-dramatica",
-                        "label": "Literatura Dramática",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "matematicas",
-                        "label": "Matemáticas II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "matematicas-aplicadas-a-las-ciencias-sociales",
-                        "label": "Matemáticas Aplicadas a las Ciencias Sociales II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "biologia",
-                        "label": "Biología",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "dibujo-tecnico",
-                        "label": "Dibujo Técnico II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "fisica",
-                        "label": "Física",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "geologia-y-ciencias-ambientales",
-                        "label": "Geología y Ciencias Ambientales",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "quimica",
-                        "label": "Química",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "tecnologia-e-ingenieria",
-                        "label": "Tecnología e Ingeniería II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "ciencias-generales",
-                        "label": "Ciencias Generales",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "movimientos-culturales-y-artisticos",
-                        "label": "Movimientos Culturales y Artísticos",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "latin",
-                        "label": "Latín II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "empresa-y-diseno-de-modelos-de-negocio",
-                        "label": "Empresa y Diseño de Modelos de Negocio",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "geografia",
-                        "label": "Geografía",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "griego",
-                        "label": "Griego II",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "historia-del-arte",
-                        "label": "Historia del Arte",
-                        "course": 2,
-                        "stage": "bach"
-                    },
-                    {
-                        "code": "segunda-lengua-extranjera",
-                        "label": "Segunda Lengua Extranjera",
-                        "course": 2,
-                        "stage": "bach"
-                    }
-                ]
-            }
-        ]
-    }
-]
+{
+    "ei": [
+        "Todas las áreas"
+    ],
+    "ep1": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "ep2": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "ep3": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "ep4": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "ep5": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "ep6": [
+        "Ciencias de la Naturaleza",
+        "Ciencias Sociales",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera: Inglés",
+        "Matemáticas",
+        "Segunda Lengua Extranjera",
+        "Tecnología y Robótica"
+    ],
+    "eso1": [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Biología y Geología",
+        "Educación Plástica, Visual y Audiovisual",
+        "Música",
+        "Segunda Lengua Extranjera",
+        "Ciencias de la Computación"
+    ],
+    "eso2": [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación en Valores Cívicos y Éticos",
+        "Educación Plástica, Visual y Audiovisual",
+        "Física y Química",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera",
+        "Ciencias de la Computación"
+    ],
+    "eso3": [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Biología y Geología",
+        "Física y Química",
+        "Música",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera"
+    ],
+    "eso4": [
+        "Educación Física",
+        "Geografía e Historia",
+        "Lengua Castellana y Literatura",
+        "Lengua extranjera",
+        "Matemáticas A",
+        "Matemáticas B",
+        "Biología y Geología",
+        "Digitalización",
+        "Economía y Emprendimiento",
+        "Expresión Artística",
+        "Física y Química",
+        "Formación y Orientación Personal y Profesional",
+        "Latín",
+        "Música",
+        "Segunda Lengua Extranjera",
+        "Tecnología",
+        "Filosofía"
+    ],
+    "bach1": [
+        "Educación Física",
+        "Filosofía",
+        "Lengua Castellana y Literatura I",
+        "Lengua Extranjera I",
+        "Dibujo Artístico I",
+        "Cultura Audiovisual",
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño I",
+        "Proyectos Artísticos",
+        "Volumen",
+        "Análisis Musical I",
+        "Artes Escénicas I",
+        "Coro y Técnica Vocal I",
+        "Lenguaje y Práctica Musical",
+        "Matemáticas I",
+        "Biología, Geología y Ciencias Ambientales",
+        "Dibujo Técnico I",
+        "Física y Química",
+        "Tecnología e Ingeniería I",
+        "Matemáticas Generales",
+        "Economía, Emprendimiento y Actividad Empresarial",
+        "Latín I",
+        "Matemáticas Aplicadas a las Ciencias Sociales I",
+        "Economía",
+        "Griego I",
+        "Historia del Mundo Contemporáneo",
+        "Literatura Universal",
+        "Segunda Lengua Extranjera"
+    ],
+    "bach2": [
+        "Historia de España",
+        "Historia de la Filosofía",
+        "Lengua Castellana y Literatura II",
+        "Lengua Extranjera II",
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño II",
+        "Diseño",
+        "Fundamentos Artísticos",
+        "Técnicas de Expresión Gráfico-plástica",
+        "Análisis Musical II",
+        "Artes Escénicas II",
+        "Coro y Técnica Vocal II",
+        "Historia de la Música y de la Danza",
+        "Literatura Dramática",
+        "Matemáticas II",
+        "Matemáticas Aplicadas a las Ciencias Sociales II",
+        "Biología",
+        "Dibujo Técnico II",
+        "Física",
+        "Geología y Ciencias Ambientales",
+        "Química",
+        "Tecnología e Ingeniería II",
+        "Ciencias Generales",
+        "Movimientos Culturales y Artísticos",
+        "Latín II",
+        "Empresa y Diseño de Modelos de Negocio",
+        "Geografía",
+        "Griego II",
+        "Historia del Arte",
+        "Segunda Lengua Extranjera"
+    ]
+}

@@ -1,167 +1,157 @@
-const eso = {
-    ei: ['Todas las áreas'],
-    ep1: [
-        "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
-        "Lengua Castellana y Literatura",
-        "Lengua Extranjera",
-        "Matemáticas",
+{
+    "ei": [
+        "Todas las áreas"
     ],
-    ep2: [
+    "ep1": [
         "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación Artística",
+        "Educación Física"
     ],
-    ep3: [
+    "ep2": [
         "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación Artística",
+        "Educación Física"
     ],
-    ep4: [
+    "ep3": [
         "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación Artística",
+        "Educación Física"
     ],
-    ep5: [
+    "ep4": [
         "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación Artística",
+        "Educación Física"
     ],
-    ep6: [
+    "ep5": [
         "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
         "Lengua Castellana y Literatura",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación Artística",
+        "Educación Física",
+        "Educación en Valores cívicos y éticos"
+    ],
+    "ep6": [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Matemáticas",
+        "Educación Artística",
+        "Educación Física"
+    ],
+    "eso1": [
+        "Lengua Castellana y Literatura",
+        "Matemáticas",
+        "Lengua Extranjera",
+        "Geografía e Historia",
+        "Educación Física",
+        "Biología y Geología",
+        "Música",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera",
+        "Taller de Emprendimiento y finanzas Personales",
+        "Proyectos de Artes Plásticas y Visuales"
+    ],
+    "eso": [
+        "Lengua Castellana y Literatura",
+        "Matemáticas",
+        "Lengua Extranjera",
+        "Geografía e Historia",
+        "Educación Física",
+        "Física y Química",
+        "Música",
+        "Educación Plástica, Visual y Audiovisual",
         "Educación en Valores Cívicos y Éticos",
-    ],
-    eso1: [
-        "Biología y Geología",
-        "Educación Física",
-        "Educación Plástica, Visual y Audiovisual",
-        "Geografía e Historia",
-        "Lengua Castellana y Literatura",
-        "Lengua Extranjera",
-        "Matemáticas",
-        "Música",
-        "Segunda Lengua Extranjera",
-        "Digitalización básica"
-    ],
-    eso2: [
-        "Educación Física",
-        "Educación en Valores Cívicos y Éticos	",
-        "Física y Química",
-        "Geografía e Historia",
-        "Lengua Castellana y Literatura",
-        "Lengua Extranjera",
-        "Matemáticas",
-        "Música",
-        "Tecnología y Digitalización",
-        "Segunda Lengua Extranjera",
-        "Emprendimiento Social y Sostenibilidad"
-    ],
-    eso3: [
-        "Educación Física",
-        "Biología y Geología",
-        "Educación Plástica, Visual y Audiovisual",
-        "Física y Química",
-        "Geografía e Historia",
-        "Lengua Castellana y Literatura",
-        "Lengua Extranjera",
-        "Matemáticas",
-        "Tecnología y Digitalización",
         "Segunda Lengua Extranjera",
         "Cultura Clásica",
-        "Unión Europea"
+        "Desarrollo Digital"
     ],
-    eso4: [
-        "Educación Física",
-        "Geografía e Historia",
+    "eso3": [
         "Lengua Castellana y Literatura",
+        "Matemáticas",
         "Lengua Extranjera",
+        "Geografía e Historia",
+        "Educación Física",
+        "Biología y Geología",
+        "Física y Química",
+        "Educación Plástica, Visual y Audiovisual",
+        "Tecnología y Digitalización",
+        "Segunda Lengua Extranjera",
+        "Emprendimiento, Sostenibilidad y consumo responsable",
+        "Música Activa, Movimiento y Folclore"
+    ],
+    "eso4": [
+        "Lengua Castellana y Literatura",
         "Matemáticas A",
         "Matemáticas B",
+        "Lengua Extranjera",
+        "Geografía e Historia",
+        "Educación Física",
         "Biología y Geología",
+        "Física y Química",
         "Digitalización",
         "Economía y Emprendimiento",
-        "Expresión Artística",
-        "Física y Química",
-        "Formación y Orientación Personal y Profesional",
         "Latín",
+        "Formación y Orientación Personal y Profesional",
+        "Expresión Artística",
         "Música",
-        "Segunda Lengua Extranjera",
         "Tecnología",
-        "Unión Europea",
-        "Introducción a la filosofía",
-    ]
-}
-
-const bach = {
-    bach1: [
-        // comunes
+        "Segunda Lengua Extranjera",
+        "Filosofía",
+        "Cultura Clásica",
+        "Cultura Científica",
+        "Proyectos de Robótica",
+        "Artes Escénicas, Danza y Folclore"
+    ],
+    "bach1": [
         "Educación Física",
         "Filosofía",
         "Lengua Castellana y Literatura I",
-        "Lengua Extranjera I ",
-
-        // ciencias y tecnología
+        "Lengua Extranjera I",
         "Matemáticas I",
         "Biología, Geología y Ciencias Ambientales",
-        "Dibujo Técnico I ",
-        "Física y Química ",
+        "Dibujo Técnico I",
+        "Física y Química",
         "Tecnología e Ingeniería I",
-
-        // ccss
-        "Latín I ",
-        "Matemáticas aplicadas a las CCSS I ",
+        "2ª Lengua Extranjera I",
+        "Anatomía Aplicada",
+        "Desarrollo Digital",
+        "Latín I",
+        "Matemáticas aplicadas a las CCSS I",
         "Economía",
         "Griego I",
         "Historia del Mundo Contemporáneo",
-        "Literatura Universal",       
-
-        // artes
-        "Dibujo Artístico I ",
+        "Literatura Universal",
+        "Lenguaje y Práctica Musical",
+        "Psicología",
+        "Dibujo Artístico I",
         "Cultura Audiovisual",
         "Dibujo Técnico Aplicado a Artes Plásticas y  Diseño I",
         "Proyectos Artísticos",
         "Volumen",
-
-        // música
-        "Análisis Musical I ",
+        "Análisis Musical I",
         "Artes Escénicas I",
         "Coro y Técnica Vocal I",
-        "Lenguaje y Práctica Musical",
-
-        // general
         "Matemáticas Generales",
-        "Economía, Emprendimiento y Actividad Empresarial",
-
-        // optativas
-        "Segunda Lengua Extranjera",
-        "Inteligencia Artificial"
+        "Economía, Emprendimiento y Actividad Empresarial"
     ],
-    bach2: [
-        // comunes
+    "bach2": [
         "Historia de España",
         "Historia de la Filosofía",
         "Lengua Castellana y Literatura II",
         "Lengua Extranjera II",
-
-        // ciencias y tecnología
         "Matemáticas II",
         "Matemáticas aplicadas a las CCSS II",
         "Biología",
@@ -170,37 +160,30 @@ const bach = {
         "Geología y Ciencias Ambientales",
         "Química",
         "Tecnología e Ingeniería II",
-
-        // ccss
+        "2ª Lengua Extranjera II",
+        "Investigación y Desarrollo Científico",
+        "Creación de Contenidos Artísticos y Audiovisuales",
         "Latín II",
         "Matemáticas aplicadas a las CCSS II",
         "Empresa y Diseño de Modelos de Negocio",
         "Geografía",
         "Griego II",
-        "Historia del Arte",   
-
-        // artes
+        "Historia del Arte",
+        "Historia de la Música y la Danza",
+        "Fundamentos de Administración y Gestión",
         "Dibujo Artístico II",
         "Dibujo Técnico Aplicado a Artes Plásticas y  Diseño II",
         "Diseño",
         "Fundamentos Artísticos",
         "Técnicas de Expresión Gráfico-Plástica",
-
-        // música
+        "Fundamentos de Administración y Gestión",
         "Análisis Musical II",
         "Artes Escénicas II",
         "Coro y Técnica Vocal II",
         "Historia de la Música y de la Danza",
         "Literatura Dramática",
-
-        // general
+        "Proyectos Artísticos de Música, Danza y Arte Dramático",
         "Ciencias Generales",
-        "Movimientos Culturales y Artísticos",
-
-        // optativas
-        "Segunda Lengua Extranjera",
-        "Psicología",
-        "Actividad Física y Salud",
-        "Ecología y Sostenibilidad Ambiental"
+        "Movimientos Culturales y Artísticos"
     ]
 }

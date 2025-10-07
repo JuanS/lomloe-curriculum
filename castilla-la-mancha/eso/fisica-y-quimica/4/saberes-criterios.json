@@ -31,7 +31,7 @@
       "- Descripción cualitativa de reacciones químicas de interés: reacciones de combustión, neutralización y procesos electroquímicos sencillos, valorando las implicaciones que tienen en la tecnología, la sociedad o el medioambiente.",
       "- Factores que influyen en la velocidad de las reacciones químicas: comprensión de cómo ocurre la reordenación de los átomos aplicando modelos como la teoría de colisiones y realización de predicciones en los procesos químicos cotidianos más importantes."
   ],
-  "criterios": [
+  "criteriosEvaluacion": [
       "Competencia específica 1.",
       "1.1. Comprender y explicar con rigor los fenómenos fisicoquímicos cotidianos a partir de los principios, teorías y leyes científicas adecuadas, expresándolos de manera argumentada, utilizando diversidad de soportes y medios de comunicación.",
       "1.2. Resolver los problemas fisicoquímicos planteados mediante las leyes y teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando los resultados con corrección y precisión.",
@@ -54,5 +54,5 @@
       "6.1. Reconocer y valorar, a través del análisis histórico de los avances científicos logrados por mujeres y hombres, así como de situaciones y contextos actuales (líneas de investigación, instituciones científicas, etc.), que la ciencia es un proceso en permanente construcción y que esta tiene repercusiones e implicaciones importantes sobre la sociedad actual.",
       "6.2. Detectar las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad, entendiendo la capacidad de la ciencia para darles solución sostenible a través de la implicación de la ciudadanía."
    ]
-  
+
 }

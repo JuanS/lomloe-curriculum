@@ -1,8 +1,48 @@
-const materiaNavarra = {
-    ei: [
-        'Todas las áreas'
+{
+    "ei": [
+        "Todas las áreas"
     ],
-    ep1: [
+    "ep1": [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Vasca Modelo A",
+        "Lengua Vasca Modelo D",
+        "Lengua Extranjera",
+        "Matemáticas"
+    ],
+    "ep2": [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Vasca Modelo A",
+        "Lengua Vasca Modelo D",
+        "Lengua Extranjera",
+        "Matemáticas"
+    ],
+    "ep3": [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Vasca Modelo A",
+        "Lengua Vasca Modelo D",
+        "Lengua Extranjera",
+        "Matemáticas"
+    ],
+    "ep4": [
+        "Conocimiento del Medio Natural, Social y Cultural",
+        "Educación Artística",
+        "Educación Física",
+        "Lengua Castellana y Literatura",
+        "Lengua Vasca Modelo A",
+        "Lengua Vasca Modelo D",
+        "Lengua Extranjera",
+        "Matemáticas"
+    ],
+    "ep5": [
         "Conocimiento del Medio Natural, Social y Cultural",
         "Educación Artística",
         "Educación Física",
@@ -11,9 +51,9 @@ const materiaNavarra = {
         "Lengua Vasca Modelo D",
         "Lengua Extranjera",
         "Matemáticas",
-
+        "Educación en Valores Cívicos y Éticos"
     ],
-    ep2: [
+    "ep6": [
         "Conocimiento del Medio Natural, Social y Cultural",
         "Educación Artística",
         "Educación Física",
@@ -22,50 +62,9 @@ const materiaNavarra = {
         "Lengua Vasca Modelo D",
         "Lengua Extranjera",
         "Matemáticas",
+        "Educación en Valores Cívicos y Éticos"
     ],
-    ep3: [
-        "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
-        "Lengua Castellana y Literatura",
-        "Lengua Vasca Modelo A",
-        "Lengua Vasca Modelo D",
-        "Lengua Extranjera",
-        "Matemáticas",
-    ],
-    ep4: [
-        "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
-        "Lengua Castellana y Literatura",
-        "Lengua Vasca Modelo A",
-        "Lengua Vasca Modelo D",
-        "Lengua Extranjera",
-        "Matemáticas",
-    ],
-    ep5: [
-        "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
-        "Lengua Castellana y Literatura",
-        "Lengua Vasca Modelo A",
-        "Lengua Vasca Modelo D",
-        "Lengua Extranjera",
-        "Matemáticas",
-        "Educación en Valores Cívicos y Éticos",
-    ],
-    ep6: [
-        "Conocimiento del Medio Natural, Social y Cultural",
-        "Educación Artística",
-        "Educación Física",
-        "Lengua Castellana y Literatura",
-        "Lengua Vasca Modelo A",
-        "Lengua Vasca Modelo D",
-        "Lengua Extranjera",
-        "Matemáticas",
-        "Educación en Valores Cívicos y Éticos",
-    ],
-    eso1: [
+    "eso1": [
         "Biología y Geología",
         "Educación Física",
         "Educación en Valores Cívicos y Éticos",
@@ -78,9 +77,9 @@ const materiaNavarra = {
         "Matemáticas",
         "Música",
         "Tecnología y Digitalización",
-        "Cultura Clásica",
+        "Cultura Clásica"
     ],
-    eso2: [
+    "eso2": [
         "Educación en Valores Cívicos y Éticos",
         "Educación Física",
         "Educación Plástica, Visual y Audiovisual",
@@ -93,9 +92,9 @@ const materiaNavarra = {
         "Matemáticas",
         "Música",
         "Tecnología y Digitalización",
-        "Cultura Clásica",
+        "Cultura Clásica"
     ],
-    eso3: [
+    "eso3": [
         "Biología y Geología",
         "Educación en Valores Cívicos y Éticos",
         "Educación Física",
@@ -109,9 +108,9 @@ const materiaNavarra = {
         "Matemáticas",
         "Música",
         "Tecnología y Digitalización",
-        "Cultura Clásica",
+        "Cultura Clásica"
     ],
-    eso4: [
+    "eso4": [
         "Biología y Geología",
         "Digitalización",
         "Economía y Emprendimiento",
@@ -128,8 +127,66 @@ const materiaNavarra = {
         "Matemáticas A",
         "Matemáticas B",
         "Música",
-        "Tecnología",
+        "Tecnología"
     ],
-    bach1: ['Artes Escénicas', 'Biología, Geología y Ciencias Ambientales', 'Coro y Técnica Vocal', 'Cultura Audiovisual', 'Cultura Audiovisual', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Economía, Emprendimiento y Actividad Empresarial', 'Economía', 'Educación Física', 'Filosofía', 'Física y Química', 'Griego', 'Historia del Mundo Contemporáneo', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lengua Vasca ModeloA', 'Lengua Vasca ModeloD', 'Lenguaje y Práctica Musical', 'Literatura Universal', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Matemáticas Generales ', 'Proyectos Artísticos', 'Tecnología e Ingeniería I', 'Volumen'],
-    bach2: ['Análisis Musical', 'Análisis Musical', 'Artes Escénicas', 'Biología', 'Ciencias Generales', 'Coro y Técnica Vocal', 'Dibujo Técnico', 'Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño', 'Diseño', 'Empresa y Diseño de Modelos de Negocio', 'Fundamentos Artísticos', 'Física', 'Geografía', 'Geología y Ciencias Ambientales', 'Griego', 'Historia de España', 'Historia de la Filosofía', 'Historia de la Música y de la Danza', 'Historia del Arte', 'Latín', 'Lengua Castellana y Literatura', 'Lengua Extranjera', 'Lengua Vasca ModeloA', 'Lengua Vasca ModeloD', 'Literatura Dramática', 'Matemáticas Aplicadas a las Ciencias Sociales', 'Movimientos Culturales y Artísticos', 'Química', 'Tecnología e Ingeniería II', 'Técnicas de Expresión Gráfico-plástica  ']
+    "bach1": [
+        "Artes Escénicas",
+        "Biología, Geología y Ciencias Ambientales",
+        "Coro y Técnica Vocal",
+        "Cultura Audiovisual",
+        "Cultura Audiovisual",
+        "Dibujo Técnico",
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+        "Economía, Emprendimiento y Actividad Empresarial",
+        "Economía",
+        "Educación Física",
+        "Filosofía",
+        "Física y Química",
+        "Griego",
+        "Historia del Mundo Contemporáneo",
+        "Latín",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Lengua Vasca ModeloA",
+        "Lengua Vasca ModeloD",
+        "Lenguaje y Práctica Musical",
+        "Literatura Universal",
+        "Matemáticas Aplicadas a las Ciencias Sociales",
+        "Matemáticas Generales",
+        "Proyectos Artísticos",
+        "Tecnología e Ingeniería I",
+        "Volumen"
+    ],
+    "bach2": [
+        "Análisis Musical",
+        "Análisis Musical",
+        "Artes Escénicas",
+        "Biología",
+        "Ciencias Generales",
+        "Coro y Técnica Vocal",
+        "Dibujo Técnico",
+        "Dibujo Técnico Aplicado a las Artes Plásticas y al Diseño",
+        "Diseño",
+        "Empresa y Diseño de Modelos de Negocio",
+        "Fundamentos Artísticos",
+        "Física",
+        "Geografía",
+        "Geología y Ciencias Ambientales",
+        "Griego",
+        "Historia de España",
+        "Historia de la Filosofía",
+        "Historia de la Música y de la Danza",
+        "Historia del Arte",
+        "Latín",
+        "Lengua Castellana y Literatura",
+        "Lengua Extranjera",
+        "Lengua Vasca ModeloA",
+        "Lengua Vasca ModeloD",
+        "Literatura Dramática",
+        "Matemáticas Aplicadas a las Ciencias Sociales",
+        "Movimientos Culturales y Artísticos",
+        "Química",
+        "Tecnología e Ingeniería II",
+        "Técnicas de Expresión Gráfico-plástica"
+    ]
 }

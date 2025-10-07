@@ -1,17 +1,17 @@
 {
     "criteriosEvaluacion": [
-        1.1 Elaborar un pla de treball personalitzat per al manteniment o la millora de la salut.
-        1.2 Consolidar els hàbits saludables valorant els beneficis que suposen al llarg de la vida.
-        1.3 Utilitzar els protocols d’actuació dels primers auxilis i de prevenció de lesions.
-        1.4 Aplicar recursos digitals per a la monitorització de l’activitat física i l’adquisició d’hàbits saludables.
-        2.1 Resoldre situacions en diferents modalitats esportives i medis aplicant habilitats tècniques, tàctiques i estratègiques.
-        2.2 Aplicar els elements i tècniques d’expressió corporal adequats a cada composició.
-        3.1 Gestionar activitats, sessions o jornades esportives desenvolupant funcions d’organització i dinamització.
-        3.2 Crear produccions d’expressió corporal incorporant-hi elements de crítica social.
-        3.3 Organitzar activitats físiques en el medi natural i urbà aplicant normes de seguretat i de conservació del medi ambient.
-        3.4 Valorar les sortides professionals associades a l’activitat física i l’esport.
-        4.1 Cooperar en diferents situacions motrius mostrant maduresa en la gestió emocional i personal en l’assumpció dels diferents rols.
-        4.2 Resoldre conflictes mitjançant l’aplicació d’habilitats socials i valors davant situacions discriminatòries i de violència en la pràctica fisicoesportiva.
+        "1.1 Elaborar un pla de treball personalitzat per al manteniment o la millora de la salut.",
+        "1.2 Consolidar els hàbits saludables valorant els beneficis que suposen al llarg de la vida.",
+        "1.3 Utilitzar els protocols d’actuació dels primers auxilis i de prevenció de lesions.",
+        "1.4 Aplicar recursos digitals per a la monitorització de l’activitat física i l’adquisició d’hàbits saludables.",
+        "2.1 Resoldre situacions en diferents modalitats esportives i medis aplicant habilitats tècniques, tàctiques i estratègiques.",
+        "2.2 Aplicar els elements i tècniques d’expressió corporal adequats a cada composició.",
+        "3.1 Gestionar activitats, sessions o jornades esportives desenvolupant funcions d’organització i dinamització.",
+        "3.2 Crear produccions d’expressió corporal incorporant-hi elements de crítica social.",
+        "3.3 Organitzar activitats físiques en el medi natural i urbà aplicant normes de seguretat i de conservació del medi ambient.",
+        "3.4 Valorar les sortides professionals associades a l’activitat física i l’esport.",
+        "4.1 Cooperar en diferents situacions motrius mostrant maduresa en la gestió emocional i personal en l’assumpció dels diferents rols.",
+        "4.2 Resoldre conflictes mitjançant l’aplicació d’habilitats socials i valors davant situacions discriminatòries i de violència en la pràctica fisicoesportiva."
     ],
     "saberes": [
         "Vida activa i saludable",
